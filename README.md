@@ -1,1 +1,1 @@
-# useMockito
+# useJUnit
